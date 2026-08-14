@@ -8,6 +8,7 @@ TOEIC 700 点突破を目指す社会人向けの英単語アプリ（Expo / Rea
 - 仕様書: [`docs/spec.md`](docs/spec.md)
 - タスク進捗: [`docs/task.md`](docs/task.md)
 - テスト仕様書: [`docs/test_spec.md`](docs/test_spec.md)
+- 開発履歴: [`docs/history.md`](docs/history.md)
 
 ---
 
