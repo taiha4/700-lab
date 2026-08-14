@@ -60,6 +60,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 | `docs/task.md` | タスク進捗（Phase 0〜7・見つけて直した不具合の記録） |
 | `docs/test_spec.md` | テスト仕様（UT/MT のケースと期待値・受け入れ基準 AC-01〜15・実施結果） |
 | `docs/history.md` | 開発履歴（各フェーズの判断とその理由・見つけた不具合の一覧・仕様の版数推移） |
+| `docs/transcript.md` | 会話ログ（ユーザーと Claude の発言をそのまま記録した逐語版） |
 | `doc/app-spec.txt` | 支給された元要件（読み取り専用。変更しない） |
 | `doc/toeic_wordlist.xlsx` | 支給された単語リスト（読み取り専用。変更しない） |
 

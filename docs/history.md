@@ -4,6 +4,7 @@
 
 - 成果物: <https://github.com/taiha4/700-lab>（Private）
 - 関連ドキュメント: [`spec.md`](spec.md)（仕様）/ [`task.md`](task.md)（進捗）/ [`test_spec.md`](test_spec.md)（テスト）
+- 発言をそのまま記録した逐語版: [`transcript.md`](transcript.md)
 
 ---
 
